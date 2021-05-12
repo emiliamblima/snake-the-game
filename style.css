@@ -1,0 +1,17 @@
+body{
+    height:  95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /*alinha no horizontamente no meio*/
+    align-items: center; /*alinha no verticalmente no meio*/
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+
+    background-color: black;
+}
+
+.footer{
+
+    padding: 10px;
+}
